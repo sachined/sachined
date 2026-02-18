@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything. I will learn from not knowing what you know.
 - 📫 How to reach me: Here
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like pandas and racing down a dirt road, going 40 nm per ms
---> 
+- ⚡ Fun fact: I like pandas and racing down a dirt road, going 1 m/s
+--> Rain is a collection of agents carrying molecules of debris
