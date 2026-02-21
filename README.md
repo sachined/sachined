@@ -4,11 +4,17 @@
 🌐 Creator of [WikiSurf-AI Agent] — AI-powered Wikipedia explorer created 2/15/26
 📊 Former Solutions Engineer → AI Developer
 
+Fin & WikiSurf: Autonomous Agent Frameworks
+
+The Vision: Moving beyond simple scripts to create "Reasoning Engines." By using Python to build agents that can plan and execute tasks, I am exploring the same type of data-heavy logic that drives real-time game overlays.
+
+Technical Achievement: Solved the challenge of "hallucination" and data noise by implementing strict validation layers in Python, ensuring the agent only acts on verified financial or research data.
+
 ## 🔥 Featured Projects
 - **WikiSurf-AI Agent** — Intelligent Wikipedia exploration agent (RAG part coming soon once studied and understood)
 
 ## Planned Projects 
-- 2 projects: 1 RAG, 1 Multi-Agent (pseudo store)
+- 2 projects: 1 RAG, 1 Agent Network (pseudo store)
 
 ## 🛠️ Tech Stack
 Python | Pandas | LangChain | LangGraph
