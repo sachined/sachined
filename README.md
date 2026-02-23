@@ -1,31 +1,35 @@
-## Hi there, I'm Sachin 👋
+# ⚡ Sachin | @sachined
 
-🔨 Building AI agents and production ML systems 🤖
-🌐 Creator of [WikiSurf-AI Agent] — AI-powered Wikipedia explorer created 2/15/26
-📊 Former Solutions Engineer → AI Developer
+> "Building Reasoning Engines that move beyond simple scripts."
 
-Fin & WikiSurf: Autonomous Agent Frameworks
+I am an **AI Developer** and former **Solutions Engineer** focused on building production-grade ML systems and autonomous agent frameworks. I specialize in using **Python** to create agents that plan and execute tasks with strict validation layers to eliminate "hallucination" and data noise.
 
-The Vision: Moving beyond simple scripts to create "Reasoning Engines." By using Python to build agents that can plan and execute tasks, I am exploring the same type of data-heavy logic that drives real-time game overlays.
+---
 
-Technical Achievement: Solved the challenge of "hallucination" and data noise by implementing strict validation layers in Python, ensuring the agent only acts on verified financial or research data.
+### 🏗️ Featured Project: FinSurf (AI Agent Network)
+**FinSurf** is my most recent exploration into the power of Agent Networks. Building on the logic of my previous work, it functions as a pseudo-store and orchestration layer for autonomous financial data.
 
-## 🔥 Featured Projects
-- **WikiSurf-AI Agent** — Intelligent Wikipedia exploration agent (RAG part coming soon once studied and understood)
+* **The Goal**: Creating a decentralized network of agents to handle data-heavy financial logic.
+* **Technical Achievement**: Implemented strict Python validation layers to ensure agents only act on verified data.
+* **Current Tech**: Python, Pandas, LangChain, and LangGraph.
 
-## Planned Projects 
-- 2 projects: 1 RAG, 1 Agent Network (pseudo store)
+---
 
-## 🛠️ Tech Stack
-Python | Pandas | LangChain | LangGraph
+### 🧪 What I’m Building & Learning
+* 🔭 **Current Project**: Refining **WikiSurf-AI Agent**, an intelligent Wikipedia explorer (RAG implementation coming soon).
+* 🌱 **Learning Path**: Deep-diving into ML/LLM fundamentals, Docker/AWS, Higher Math, and Cloud Infrastructure.
+* 🤔 **Seeking Input**: I'm currently looking for better ways to handle massive project data dumps and patch holes in my coding architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on becoming an AI developer.
-- 🌱 I’m currently learning about ML/LLM fundamentals, AI agent framework, Docker/AWS, Higher Math, and Cloud infrastructure.
-- 👯 I’m looking to collaborate on automation of repetitive and mentally challenging tasks.
-- 🤔 I’m looking for help with patching holes in my coding knowledge and how to handle all the data dumps these projects handle.
-- 💬 Ask me about anything. I will learn from knowing what you know. I can be your "Bag" Head (smile and nod, while sipping on a slurpie).
-- 📫 How to reach me: sachin.nediyanchath@gmail.com
-- ⚡ Fun fact: I like pandas and racing down a dirt road, going 1 m/s :cowboy_hat_face:
---> Rain is a collection of agents carrying molecules of debris
+### 🤝 Let's Collaborate
+I am looking to partner with other builders on the **automation of repetitive and mentally challenging tasks**.
+
+* **Ask Me Anything**: I'm happy to be your "Bag" Head—I’ll smile, nod, and learn from your expertise while sipping a slurpie.
+* **Reach Out**: [sachin.nediyanchath@gmail.com](mailto:sachin.nediyanchath@gmail.com)
+* **Fun Fact**: I like pandas (the library and the animal) and racing down dirt roads at a blistering 1 m/s. 🤠
+
+---
+
+### 🛠️ Tech Toolbox
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
