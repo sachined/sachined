@@ -7,6 +7,8 @@ I am an **AI Developer** and former **Solutions Engineer** focused on architecti
 ---
 
 #### 🏗️ Featured Project: [FinSurf 🏄‍♂️](https://github.com/sachined/FinSurf)
+https://finsurf.net/ - You can access directly.
+
 *An orchestration layer for autonomous financial intelligence.*
 
 FinSurf is a decentralized network of specialized AI agents designed to navigate the complexities of financial data. It functions as a high-integrity research team, gathering and validating market data in real-time.
