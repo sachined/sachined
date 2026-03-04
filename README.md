@@ -7,7 +7,6 @@ I am an **AI Developer** and former **Solutions Engineer** focused on architecti
 ---
 
 #### 🏗️ Featured Project: [FinSurf 🏄‍♂️](https://github.com/sachined/FinSurf)
-https://finsurf.net/ - You can access directly.
 
 *An orchestration layer for autonomous financial intelligence.*
 
